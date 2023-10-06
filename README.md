@@ -76,10 +76,26 @@ Our solution encompasses a wide range of features and functionalities, each meti
 - **No Learning and Zero Learning:**
   - User-friendly design with no extensive training requirements
     
+## Getting Started 🚀
 
-### Installation
+### Prerequisites 📋
 
-We provide step-by-step installation instructions in our [Installation Guide](installation.md).
+Before you can embark on the journey of revolutionizing railway station management, you'll need to ensure that you have the following prerequisites in place:
+
+- **Python:** Make sure you have Python 🐍 installed on your system. You can download and install Python from [python.org](https://www.python.org/downloads/).
+
+- **TensorFlow:** TensorFlow is the powerhouse behind our solution.
+
+- **YOLOv5:** Our solution relies on YOLOv5 for object detection. 
+
+- **MobileNet:** MobileNet is available as part of TensorFlow, so you don't need to install it separately.
+
+### Installation 🛠️
+
+Now that you've met the prerequisites and geared up, let's dive into the installation process. Here's how to get our railway station management solution up and running:
+
+1. **Clone the Repository:**
+
 
 ### Setting up Python, TensorFlow, YOLOv5, and MobileNet
 
