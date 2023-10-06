@@ -75,6 +75,48 @@ Our solution encompasses a wide range of features and functionalities, each meti
 
 - **No Learning and Zero Learning:**
   - User-friendly design with no extensive training requirements
+    
+
+### Installation
+
+We provide step-by-step installation instructions in our [Installation Guide](installation.md).
+
+### Setting up Python, TensorFlow, YOLOv5, and MobileNet
+
+To leverage the power of TensorFlow, YOLOv5, and MobileNet, follow these steps:
+
+1. **Install Python:**
+   - Download and install Python from [python.org](https://www.python.org/downloads/).
+
+2. **Install TensorFlow:**
+   - Install TensorFlow using pip:
+     ```
+     pip install tensorflow
+     ```
+
+3. **YOLOv5 Installation:**
+   - Clone the YOLOv5 repository:
+     ```
+     git clone https://github.com/ultralytics/yolov5.git
+     ```
+   - Navigate to the YOLOv5 directory:
+     ```
+     cd yolov5
+     ```
+   - Install dependencies:
+     ```
+     pip install -U -r requirements.txt
+     ```
+
+4. **MobileNet:**
+   - MobileNet is available as part of TensorFlow. You can use it directly after installing TensorFlow.
+
+Now, you're all set to use our railway station management solution with Python, TensorFlow, YOLOv5, and MobileNet!
+
+## Usage
+
+Discover how to use our solution effectively, including configuration and customization options, in our [Usage Guide](usage.md).
+
 
 ## License
 
